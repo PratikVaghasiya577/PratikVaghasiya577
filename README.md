@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratikVaghasiya577
 - 👀 I’m interested in Python, Data analysis
-- 🌱 I’m currently learning Data analysis with python 
+- 🌱 I’m currently learning Web develpoment python, HTML-CSS-J
 - 📫 How to reach me pratikvaghasiya577@gmail.com
 
 <!---
