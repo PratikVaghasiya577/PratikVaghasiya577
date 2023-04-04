@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PratikVaghasiya577
 - 👀 I’m interested in Python, DSA, Web development
 - 🌱 I’m currently learning Web develpoment using Python, HTML-CSS-Js
-- 📫 How to reach me https://www.linkedin.com/in/pratik-vaghasiya-96ab68141/
+- 📫 How to reach me https://www.linkedin.com/in/pratik-vaghasiya
 - 📩 Email@pratikvaghasiya577@gmail.com
 
 <!---
