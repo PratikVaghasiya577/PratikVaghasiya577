@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratikVaghasiya577
 - 👀 I’m interested in Python, DSA, Software development
-- 🌱 I’m currently learning development and Machine learning using Python, HTML-CSS-Js
+- 🌱 I’m currently working as a data scientist
 - 📫 How to reach me https://www.linkedin.com/in/pratik-vaghasiya
 - 📩 Email@pratikvaghasiya577@gmail.com
 
